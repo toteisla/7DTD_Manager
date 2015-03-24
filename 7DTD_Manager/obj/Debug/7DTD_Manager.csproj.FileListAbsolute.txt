@@ -1,0 +1,14 @@
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\7DTD_Manager.exe.config
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\7DTD_Manager.exe.manifest
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\7DTD_Manager.application
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\7DTD_Manager.exe
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\7DTD_Manager.pdb
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\bin\Debug\System.Data.SQLite.dll
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.csprojResolveAssemblyReference.cache
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\_7DTD_Manager.Form1.resources
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\_7DTD_Manager.Properties.Resources.resources
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.csproj.GenerateResource.Cache
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.exe.manifest
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.application
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.exe
+D:\Programacion\C#\7DTD_Manager\7DTD_Manager\obj\Debug\7DTD_Manager.pdb
